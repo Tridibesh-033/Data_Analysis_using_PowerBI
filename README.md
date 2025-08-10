@@ -54,7 +54,7 @@ It uses two datasets (**Orders** and **Details**) to provide insights on sales, 
 ## 🚀 How to Use
 
 1. Clone or download this repository.
-2. Open the `.pbix` file in **Power BI Desktop**.
+2. Open the `e-commerce.pbix` file in **Power BI Desktop**.
 3. Refresh data (if connected to a live source).
 4. Use filters to explore **quarterly** or **state-wise** performance.
 
