@@ -16,8 +16,6 @@ This repository contains multiple interactive **Power BI dashboards** created fo
 
 ## 1️⃣ E-commerce Sales Dashboard
 
-# 📊 E-commerce Sales Dashboard
-
 An interactive **Power BI** dashboard designed to track and analyze **E-commerce sales performance**.  
 It uses two datasets (**Orders** and **Details**) to provide insights on sales, profits, customer behavior, and product performance, with easy-to-use filters for better decision-making.
 
@@ -96,8 +94,6 @@ It uses two datasets (**Orders** and **Details**) to provide insights on sales, 
 ---
 
 ## 2️⃣ Call Center Trends Dashboard
-
-# ☎️ Call Center Trends Dashboard
 
 An interactive **Power BI** dashboard built for a **customer support / call center company** to monitor and analyze employee performance, call handling efficiency, and customer satisfaction.  
 Using over **5,000+ call records**, the dashboard provides actionable insights for management to improve service quality.
