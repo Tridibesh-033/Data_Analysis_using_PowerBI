@@ -5,8 +5,8 @@ It uses two datasets (**Orders** and **Details**) to provide insights on sales, 
 
 ---
 
-## 📽️ Dashboard
-<img width="613" height="340" alt="{26BDE975-FC7C-4BAB-BA57-90E1764DF338}" src="https://github.com/user-attachments/assets/a0a1d049-59e8-4cf1-a641-0409b8c238b0" />
+## 🖼️ Dashboard
+<img width="604" height="340" alt="{65C9F222-A3D6-419D-8153-4397C5809D7A}" src="https://github.com/user-attachments/assets/ec8da701-2a67-4993-b789-10349a8d182d" />
 
 ---
 
@@ -72,7 +72,7 @@ It uses two datasets (**Orders** and **Details**) to provide insights on sales, 
 - Quarterly & state-wise breakdowns identify **regional performance trends**.
 - **Top 3 customers** contribute significantly to total revenue.
 - Clothing dominates in quantity sold, Electronics in profitability.
-- **UPI** and **Credit Card** are top payment methods.
+- **UPI**, **COD** and **Credit Card** are top payment methods.
 - Sub-category profitability varies widely, aiding product strategy.
 
 ---
