@@ -51,19 +51,6 @@ It uses two datasets (**Orders** and **Details**) to provide insights on sales, 
 
 ---
 
-## 🖼️ Dashboard Snapshots
-
-### 1️⃣ Overall Sales & KPIs
-![Overall KPIs](images/overall-kpis.png)
-
-### 2️⃣ Sales by State
-![Sales by State](images/sales-by-state.png)
-
-### 3️⃣ Category & Payment Mode Analysis
-![Category Payment](images/category-payment.png)
-
----
-
 ## 🚀 How to Use
 
 1. Clone or download this repository.
