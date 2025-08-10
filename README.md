@@ -32,14 +32,14 @@ It uses two datasets (**Orders** and **Details**) to provide insights on sales, 
 
 ## 📁 Dataset Overview
 
-**Orders Dataset:**
+**Orders Dataset** *(500 rows)*:
 - City  
 - Customer Name  
 - Order Date  
 - Order ID  
 - State  
 
-**Details Dataset:**
+**Details Dataset** *(1,500 rows)*:
 - Amount  
 - Average Order Value  
 - Category  
