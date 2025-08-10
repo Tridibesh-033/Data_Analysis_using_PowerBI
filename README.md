@@ -6,7 +6,7 @@ This repository contains multiple interactive **Power BI dashboards** created fo
 
 ## 📌 Dashboards Included
 
-1. **[E-commerce Sales Dashboard](#1-e-commerce-sales-dashboard)**  
+1. **[E-commerce Sales Dashboard](#e-commerce-sales-dashboard)**  
    Analyze sales, profit, customer behavior, and product performance.
 
 2. **[Call Center Trends Dashboard](#2-call-center-trends-dashboard)**  
